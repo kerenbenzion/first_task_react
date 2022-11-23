@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    background-image: url('/Users/barchen/Documents/school/first_task_react/public/background.webp');
+    background-size: 100%;
+    
 }
 
 code {
